@@ -14,7 +14,4 @@ public class PrimitiefCijfer implements Cijfer {
     public double getCijfer(){
         return cijfer;
     }
-    public String toString(){
-    	return "Primitie Cijfer is " + cijfer;
-    }
 }
