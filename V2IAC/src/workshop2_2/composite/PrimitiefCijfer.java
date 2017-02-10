@@ -15,6 +15,7 @@ public class PrimitiefCijfer implements Cijfer {
         return cijfer;
     }
     public String toString(){
-    	return "Primitie Cijfer is " + cijfer;
+    	String s = "Primitie Cijfer is " + cijfer;
+    	return s;
     }
 }
